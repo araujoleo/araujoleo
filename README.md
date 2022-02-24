@@ -1,5 +1,4 @@
 ### Olá, mundo! Me chamo Leonardo!
-Sou novo nesse mundo da programação e atualmente estou cursando Análise e Desenvolvimento de Sistemas. :)
 
 
 <div align="center">
